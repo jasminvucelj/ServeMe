@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Client-side App</string>
+    <string name="action_settings">Settings</string>
+    <string name="naziv">Naziv</string>
+    <string name="kolicina">Količina</string>
+    <string name="cijena">Cijena</string>
+    <string name="naruci">Naruči</string>
+    <string name="dodaj1">Dodaj palačinku</string>
+    <string name="dodaj2">Dodaj piće</string>
+    <string name="ukupna_cijena">Ukupna cijena:</string>
+    <string name="empty">(empty)</string>
+    <string name="cijena_kom">Cijena/kom</string>
+    <string name="title_activity_add_new">AddNew</string>
+    <string name="nema_artikala">\nVaša trenutna narudžba je prazna. Da biste dodali novi artikl, kliknite na gumb "Dodaj palačinku" ili gumb "Dodaj piće" pri dnu ekrana.</string>
+    <string name="vasa_narudzba">Vaša narudžba:</string>
+    <string name="dodaj">Dodaj</string>
+    <string name="odustani">Odustani</string>
+    <string name="spinner_init_text">(kliknite ovdje da biste odabrali željeni artikl)</string>
+    <string name="CONST_pice">pice</string>
+    <string name="CONST_palacinka">palacinka</string>
+    <string name="CONST_prilog">prilog</string>
+    <string name="odaberite_zeljeni_artikl">Odaberite željeni artikl</string>
+    <string name="artikl">Artikl</string>
+    <string name="ukupno">Ukupno:</string>
+    <string name="oblikuj">Oblikujte palačinku po vlastitom izboru</string>
+    <string name="tip_palacinke">Tip palačinke</string>
+    <string name="obicna">Obična palačinka</string>
+    <string name="pohana">Pohana palačinka</string>
+    <string name="prilozi">Prilozi</string>
+    <string name="cijena_palacinke">Cijena palačinke:</string>
+    <string name="cijena_2tocka">Cijena:</string>
+    <string name="plus_with_5_spaces">     +</string>
+    <string name="hvala">Vaša narudžba je uspješno poslana. Hvala Vam!</string>
+    <string name="kn">kn</string>
+</resources>
